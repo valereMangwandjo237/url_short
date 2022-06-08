@@ -1,0 +1,19 @@
+body
+{
+	background-color: #777;
+}
+.content
+{
+	text-align: center;
+	margin: 43px auto;
+	color: #fff;
+}
+a
+{
+	color: #fff;
+}
+h1
+{
+	font-weight: bold;
+	font-style: italic;
+}
